@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,johnDoe,John,Doe,johnDoe@example.com,wGf7325hS,123-456-7890,10
+2,janeSmith,Jane,Smith,janeSmith@example.com,87dG6Te43,098-765-4321,20
+3,robertBrown,Robert,Brown,robertBrown@example.com,F2t92Lk6S,567-890-1234,30
+4,susanMiller,Susan,Miller,susanMiller@example.com,Y7l9P6Xw3,321-654-9870,40
+5,michaelJohnson,Michael,Johnson,michaelJohnson@example.com,A4r3L7e5H,234-567-8901,50
+6,emilyWilson,Emily,Wilson,emilyWilson@example.com,J7h1K6Tv2,987-012-3456,60
+7,williamDavis,William,Davis,williamDavis@example.com,P5a2R8wZ5,876-543-2109,70
+8,lindaJones,Linda,Jones,lindaJones@example.com,D7o5E6Yj1,345-678-9012,80
+9,josephTaylor,Joseph,Taylor,josephTaylor@example.com,R1q3V5O7w,098-765-4321,90
+10,patriciaRodriguez,Patricia,Rodriguez,patriciaRodriguez@example.com,N2m6S3R4i,012-345-6789,100

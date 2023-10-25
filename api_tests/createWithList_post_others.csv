@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+2345,JohnDoe,John,Doe,johndoe@gmail.com,,345-879-0987,1
+,EmilyJane,Emily,Jane,456,emily@abc.com,,2
+7896,NickPeterson,Nick,Peterson,654321,nick@yahoo.com,967-654-4321,
+8910,JaneDoe,Jane,Doe,janedoe@gmail.com,janedoe123,,4
+9876,,Tom,Watson,tomwatson@gmail.com,789-012-6789,5
+5678,AlexBrown,Alex,Brown,alexbrown@gmail.com,,7934567821,
+6789,SarahConor,Sarah,Conor,123456,sarah@gmail.com,793-034-9876,3
+6789,SusanSmith,Susan,Smith,susansmith@gmail.com,susansmith123,406-789-0123,
+8910,RonWeasley,Ron,Weasley,ronweasley@gmail.com,,920-456-7890,
+2345,HarryPotter,Harry,Potter,harrypotter@gmail.com,harrypotter123,840-567-8901,1

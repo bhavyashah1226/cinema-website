@@ -1,0 +1,11 @@
+username,body
+john, 
+mary,123456   // here body is in form of integer
+,123abc    // skip the username field
+doe,  # here the value of body is ","
+123,doe   // username is in form of integer
+jane,@gmail.com   // email id given as body
+kane,12345678   // phone number given as body
+smith,ACTIVE   // userStatus given as body
+,   // skip both fields
+dummyUser,dummyBody

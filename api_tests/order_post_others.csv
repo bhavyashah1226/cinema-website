@@ -1,0 +1,13 @@
+id,petId,quantity,shipDate,status,complete
+1234,100,3,2022-01-22,approved,true
+5678,200,5,2022-02-20,delivered,false
+9999,,7,2022-03-13,placed,true
+1111,400,9,2022-04-08,,false
+3333,500,,2022-05-30,approved,true
+4444,NotAnId,7,2022-06-24,delivered,
+,,11,2022-07-19,placed,false
+7777,800,,2022-08-14,approved,true
+8888,900,7,22nd August,delivered,false
+0000,1000,11,2022-10-05,placed,NotABoolean
+2222,1100,,2022-11-30,approved,true
+2345,1200,5,FutureDate,delivered,false

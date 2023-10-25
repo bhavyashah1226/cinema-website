@@ -1,0 +1,11 @@
+id,petId,quantity,shipDate,status,complete
+4532,6835,5,13-08-2022,approved,true
+2531,4935,3,22-08-2022,delivered,false
+7523,8369,2,30-08-2022,placed,true
+7635,4395,4,02-09-2022,approved,false
+4295,9583,1,11-09-2022,delivered,true
+5332,6835,6,20-09-2022,placed,false
+9265,3125,3,06-10-2022,approved,true
+6423,5835,8,16-10-2022,delivered,false
+7635,4635,2,25-10-2022,placed,true
+9385,1793,5,03-11-2022,approved,false

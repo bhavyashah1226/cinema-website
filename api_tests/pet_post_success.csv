@@ -1,0 +1,6 @@
+id,category_id,category_name,name,photoUrls,tag_id,tag_name,status
+12345,1,Dogs,Fluffy,http://imsite.com/.jpg,100,Furry,available
+23456,2,Cats,Whiskers,http://catsite.com/.jpg,200,Claws,available
+34567,3,Birds,Tweety,http://birdsite.com/.jpg,300,Feathers,pending
+45678,4,Fishes,Bubbles,http://fishsite.com/.jpg,400,Fins,sold
+56789,5,Rodents,Squeaky,http://rodentsite.com/.jpg,500,Tail,pending

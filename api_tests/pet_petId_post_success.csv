@@ -1,0 +1,13 @@
+CSV FORMAT:
+
+petId,name,status
+123ID45,Max,Available
+678ID90,Bella,Adopted
+231ID57,Charlie,Sold
+894ID20,Daisy,Pending
+567ID83,Rocky,Available
+756ID19,Lucy,Adopted
+928ID34,Buddy,Unavailable
+375ID12,Molly,Pending
+417ID56,Zeus,Unvailable
+935ID17,Ruby,Adopted

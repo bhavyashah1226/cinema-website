@@ -1,0 +1,11 @@
+id,categoryId,categoryName,name,photoUrl,tagId,tagName,status
+1234,1,Feline,Mittens,http://example.com/cat1.jpg,1,playful,available
+5678,2,Canine,Buddy,http://example.com/dog2.jpg,2,energetic,pending
+9101,3,Avian,Tweety,http://example.com/bird3.jpg,3,quiet,sold
+3456,4,Reptile,Spikey,http://example.com/reptile4.jpg,4,independent,available
+7890,5,Aquatic,Goldie,http://example.com/fish5.jpg,5,calm,pending
+0223,6,Rodent,Whiskers,http://example.com/rodent6.jpg,6,curious,sold
+4567,7,Equine,Star,http://example.com/horse7.jpg,7,strong,available
+8910,8,Bovine,Bessie,http://example.com/cow8.jpg,8,docile,pending
+1235,9,Feline,Fluffy,http://example.com/cat9.jpg,9,loud,sold
+6789,10,Canine,Spot,http://example.com/dog10.jpg,10,friendly,available

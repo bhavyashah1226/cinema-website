@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus,invalid_id,invalid_username
+10,MarkR,Mark,Rodriguez,markr@yahoo.com,pass123,,1,abc,john_s
+20,JohnD,john,,,pass321,555-555-5555,2,123,3444
+30,AliceW,Alice,Walker,alice_walker@gmail.in,alice_pass,666-666-6666,3,345t,markr
+40,JohnD,John,Doe,,john_pass,777-777-7777,4,abcd,evek
+,,Eve,,eve.k@gmail.in,eve_pass,888-888-8888,5,235,eve_k
+50,AdamS,Adam,Smith,adam_smith@yahoo.com,adam_pass,999-999-9999,6,123qw,alices
+60,NancyO,Nancy,Olsen,,nancy_pass,,7,9ijh,johnd
+70,RobertT,Robert,,robert_thompson@gmail.co.uk,robert_pass,111-111-1111,8,hj23,adams
+80,LauraC,Laura,Cox,laura_cox@gmail.fr,,222-222-2222,9,12jk,nancyo
+90,BrianP,Brian,Phillips,brian_phillips@yahoo.es,brian_pass,333-333-3333,10,234fd,robertt
