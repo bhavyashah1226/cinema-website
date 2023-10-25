@@ -1,0 +1,16 @@
+ID,Name,Email,Birthdate,Gender,Phone,Status
+1,John Doe,johndoe@domain.com,1992-01-01,Male,0123456789,Active
+2,random string,1234567,1988-02-03,Female,987654321,Inactive
+3,Jane Doe,janedoe@domain.com,1990-01-01,Female,0123456789,Active
+4,random string,2345678,1991-02-03,Male,,Inactive
+5,,janedoe@domain.com,,Female,0123456789,Active
+6,John Doe,3456789,,Male,,Inactive
+7,Jane Doe,janedoe@domain.com,1992-01-01,,0123456789,Active
+8,,,,,987654321,      
+9,John Doe,,,Male,0123456789,Active
+10,,1234567,,Female,,Inactive
+11,Jane Doe,janedoe@domain.com,1990-01-01,Female,0123456789,Active
+12,random string,,1988-02-03,Male,987654321,  
+13,John Doe,johndoe@domain.com,,Female,,Inactive
+14,,janedoe@domain.com,1992-01-01,,,,Active
+15,Jane Doe,4567890,,,0123456789,Inactive

@@ -1,0 +1,11 @@
+petId,additionalMetadata,file
+123456,registration info,image1.jpg
+56789,correction data,
+234567,payment data,image2.png
+4321,,image3.gif
+54321,shipping details,
+99999,error logs,image4.jpeg
+123,,image5.bmp
+789,order history,
+34567,database backup,image6.tif
+,session logs,image7.pdf

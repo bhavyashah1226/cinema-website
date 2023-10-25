@@ -1,0 +1,15 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+7,testUser,John,Doe,12345,testPassword,abc123,2
+89,exampleUser,Jane,Smith,text@example.com,security,9876543210,5
+
+35678,harryPotter,Harry,Potter,h.potter@hogwarts.com,quidditch,777magic,1,
+,scarFace,Thomas,,t.scar@face.com,,1414scar,
+1234,,Peter,Pan,p.pan@neverland.com,lostBoys,1111hook,,12
+
+,,,Queen,queen@chess.com,checkmate,2222queen,4
+5678,whiteRabbit,Alice,,a.white@wonderland.com,,3333rabbit,
+
+9123,crusoe,Robinson,Crusoe,r.crusoe@island.com,friday,4444parrot,6,
+,,Tom,Sawyer,t.sawyer@raft.com,treasure,5555river,,15 
+
+Note: Some values are intentionally left blank, inconsistent or of an incorrect data-type as per the provided instructions.

@@ -1,0 +1,24 @@
+Given a set of instructions to create dummy CSV data for variable 'status', the CSV output without using double quotes, mixes data types and occasionally skips values, could look as follows:
+
+status
+available
+899
+pending
+"closed"
+463
+sold
+available
+300
+pending
+65
+"refund"
+available
+"returned item"
+sold
+77
+pending
+available
+"suspended"
+sold
+"disposed"
+899

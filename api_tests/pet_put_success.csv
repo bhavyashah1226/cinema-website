@@ -1,0 +1,11 @@
+id,category_id,category_name,name,photoUrls,tags_id,tags_name,status
+564532,1,Dogs,Bob,bob-dog-photo.com,100,DogLover,available
+856423,2,Cats,Luna,luna-cat-photo.com,101,CatLover,pending
+134789,3,Birds,Tweety,tweety-birds-photo.com,102,BirdLover,sold
+587632,4,Reptiles,Spike,spike-reptile-photo.com,103,ReptileLover,available
+162534,5,Rodents,Squeaky,squeaky-rodent-photo.com,104,RodentLover,pending
+453786,6,Fish,Nemo,nemo-fish-photo.com,105,FishLover,sold
+872369,7,Amphibians,Kermit,kermit-amphibian-photo.com,106,AmphibianLover,available
+548723,8,Arachnids,Charlotte,charlotte-arachnid-photo.com,107,ArachnidLover,pending
+365879,9,Insects,Buzz,buzz-insect-photo.com,108,InsectLover,sold
+935678,10,Mammals,Simba,simba-mammal-photo.com,109,MammalLover,available

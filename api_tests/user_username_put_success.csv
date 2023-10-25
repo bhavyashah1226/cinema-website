@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,johndoe,John,Doe,johndoe@gmail.com,123456,1234567890,1
+2,jane_doe,Jane,Doe,janedoe@gmail.com,abcdef,0987654321,2
+3,bob_smith,Bob,Smith,bobsmith@gmail.com,xyz123,1234567891,1
+4,alice_brown,Alice,Brown,alicebrown@gmail.com,def456,0987654322,2
+5,charlie_clark,Charlie,Clark,charlieclark@gmail.com,ghi789,1234567892,1
+6,erin_anderson,Erin,Anderson,erinanderson@gmail.com,klm012,0987654323,2
+7,fred_johnson,Fred,Johnson,fredjohnson@gmail.com,nop345,1234567893,1
+8,ginger_williams,Ginger,Williams,gingerwilliams@gmail.com,qrs678,0987654324,2
+9,harry_moore,Harry,Moore,harrymoore@gmail.com,tuv901,1234567894,1
+10,irene_jones,Irene,Jones,irenejones@gmail.com,wxy234,0987654325,2

@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,JohnX111,John,Doe,johndoe123@abc.com,password123,1234567809,1
+2,empty,Mike,Wazowski,12492,passwordtwo,ssn123,2
+3,AlexMorning,Alex,Morning,alex_morning@pqr.com,passwthree,,,3
+4,BobBuilder ,Bob,,,passwordfour,1345678910,4
+5,CindyMiller,Cindy,Miller,cindy.miller@xyz.com,,,
+6,Daaaaaaave,Dave,Q2Z3T1,,passwordsix,dave-phonenumber,6
+7,Eeeeeeeevelyn,Evelyn,Smith,12345,passwNANsev,evelyn-phone,7
+8,FrankyyyW,Frank,Wright,frank_wright@lmn.com,,0987654321,8
+9,GggggggGreg442,Greg,Anderson,,passwordnine,g-string,9
+10,HenryyyHenry,Henry,Ford,henryford102@rst.com,pwten,9876543210,10

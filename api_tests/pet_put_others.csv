@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+542,MainCoone,Rex,https://images.com/cat1.jpg|https://images.com/cat2.jpg,playful|curious,available
+453,GermanShepard,Rocky,https://images.com/dog1.jpg|https://images.com/dog2.jpg,loyal|protective,pending
+,corgi,Leila,https://images.com/dog3.jpg,cute|friendly,available
+736,,Jasper,https://images.com/cat3.jpg,playful,independent,sold
+649,Siamese,Ming,,intelligent|quiet,available
+-BelgianMalinois,Max,https://images.com/dog4.jpg,Proactive|loyal,sold
+393,Poodle,Lady,https://images.com/dog5.jpg,faithful|gentle,
+912,Bulldog,Bruno,https://images.com/dog6.jpg,loving|stubborn,pending
+,Dalmatian,Spots,https://images.com/dog7.jpg|https://images.com/dog8.jpg,energetic|friendly,available
+2568,Husky,Shadow,,intelligent|energetic,sold

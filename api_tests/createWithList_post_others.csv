@@ -1,0 +1,16 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+123,johndoe,John,Doe,5678,password1243,doejohn@gmail.com,1
+457889,maryjane,Mary,Jane,45123,mary456,mary@jane.com,0
+,stevek,Steve,Knight,stevek@apple.com,,,1
+78686,william0223,,William,111111,passw0rd,william@clinton.com,0
+00356,zuckerberg,Mark,Zuckerberg,123698,zuck123,mz@fb.com,1
+898989,bezosj,Martin,Bezos,bezosj1234,spaceX_orbit@amazon.com,2
+,username,,LastName,email,password,,
+5524,satyan,satya,Nadella,,microsoftceo,satya@microsoft.com,0
+989898,,,,kennedy,1234567,john@whitehouse.gov,1
+45323,kalam,APJ,Abdul,Kalam,rocketman,apj@isro.gov.in,1
+767867,timcook,Tim,Cook,apple1234,,,1
+,ListerFloyd,,,,craig,whitehouse,2
+67979,emuskt,Musk,Elon,87654,tesla2018,emusk@tesla.com,0
+,torvaldL,Linus,Torvald,,l1nuxgod,,1
+34657,NrNarayana,Murthy,Narayana,Murthy,infyfounder,,2

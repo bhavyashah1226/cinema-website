@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,Cats,Whiskers,google.com/CatsImages,1-friendly,available
+2,Dogs,Bingo,animalimages.com/DogsPics,2-active,pending
+3,Birds,Tweety,birdsphotos.com/BirdsSnapshots,3-chirpy,sold
+4,Horses,Daisy,horsespic.com/HorsesShots,4-strong,available
+5,Fish,Goldie,aquaimage.net/FishesCaptures,5-swimy,pending
+6,Reptiles,Slither,reptilespicture.org/ReptilesSnaps,6-silent,sold
+7,Rabbits,Bouncer,rabbitspics.net/RabbitsPhotographs,7-jumpy,available
+8,Rodents,Squeaky,rodentspic.org/RodentsShots,8-busy,pending
+9,Amphibians,Clumsy,amphibiansimage.net/AmphibiansViews,9-cold,sold
+10,Insects,Buzz,insectsphoto.org/InsectsViews,10-flutter,available
