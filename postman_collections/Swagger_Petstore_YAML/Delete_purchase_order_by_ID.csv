@@ -1,0 +1,11 @@
+orderId,statusCode
+1,400,available
+2,404,pending
+3,400,sold
+4,404,available
+5,400,pending
+6,404,sold
+7,400,available
+8,404,pending
+9,400,sold
+10,404,available

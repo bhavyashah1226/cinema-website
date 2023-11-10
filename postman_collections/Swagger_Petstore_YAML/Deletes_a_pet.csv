@@ -1,0 +1,11 @@
+petId,statusCode
+1,400,available
+2,400,pending
+3,400,sold
+4,400,available
+5,400,pending
+6,400,sold
+7,400,available
+8,400,pending
+9,400,sold
+10,400,available
