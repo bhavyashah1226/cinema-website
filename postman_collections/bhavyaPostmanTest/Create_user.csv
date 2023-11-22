@@ -1,4 +1,5 @@
 id,username,firstName,lastName,email,password,phone,userStatus,statusCode,scenario
+,user6,user6,user6,user6,user6,666666,user6,500,balh
 1,user1,John,Doe,johndoe1@example.com,pass1,1234567890,available,500,Server error responses: Internal Server Error
 2,user2,Jane,Doe,janedoe2@example.com,pass2,2345678901,pending,500,Server error responses: Internal Server Error
 3,user3,Jim,Smith,jimsmith3@example.com,pass3,3456789012,sold,500,Server error responses: Internal Server Error
