@@ -1,0 +1,11 @@
+username,id,firstName,lastName,email,password,phone,userStatus,statusCode,scenario
+testuser1,1,John,Doe,johndoe@example.com,pass123,1234567890,available,400,Client error responses: Bad Request
+testuser2,2,Jane,Doe,janedoe@example.com,pass456,0987654321,pending,404,Client error responses: Not Found
+testuser3,3,James,Smith,jamessmith@example.com,pass789,1122334455,sold,400,Client error responses: Bad Request
+testuser4,4,Jessica,Johnson,jessicajohnson@example.com,pass321,5566778899,available,404,Client error responses: Not Found
+testuser5,5,Robert,Brown,robertbrown@example.com,pass654,7788991122,pending,400,Client error responses: Bad Request
+testuser6,6,Emily,Williams,emilywilliams@example.com,pass987,8899112233,sold,404,Client error responses: Not Found
+testuser7,7,Michael,Taylor,michaeltaylor@example.com,pass231,3344556677,available,400,Client error responses: Bad Request
+testuser8,8,Sarah,Thomas,sarahthomas@example.com,pass564,7766554433,pending,404,Client error responses: Not Found
+testuser9,9,David,Jackson,davidjackson@example.com,pass897,1122334455,sold,400,Client error responses: Bad Request
+testuser10,10,Laura,White,laurawhite@example.com,pass312,9988776655,available,404,Client error responses: Not Found

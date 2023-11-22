@@ -1,0 +1,9 @@
+tags,statusCode,scenario
+doggie,200,Successful responses: OK
+doggie,400,Client error responses: Bad Request
+available,200,Successful responses: OK
+available,400,Client error responses: Bad Request
+pending,200,Successful responses: OK
+pending,400,Client error responses: Bad Request
+sold,200,Successful responses: OK
+sold,400,Client error responses: Bad Request
