@@ -1,0 +1,5 @@
+offset,limit,sort,nobelPrizeYear,yearTo,nobelPrizeCategory,format,csvLang,statusCode,scenario
+1,10,asc,1989,2020,eco,json,en,200,Successful responses: OK
+2,15,desc,1990,2021,phy,csv,se,400,Client error responses: Bad Request
+3,20,asc,1991,2022,lit,json,no,404,Client error responses: Not Found
+4,25,desc,1992,2023,med,csv,en,422,Client error responses: Unprocessable Entity
