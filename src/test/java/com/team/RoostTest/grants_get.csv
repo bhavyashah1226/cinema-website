@@ -1,0 +1,21 @@
+UserID,FirstName,LastName,Email,DateOfBirth,PhoneNumber,Address
+
+1,John,Doe,johndoe@gmail.com,1985-07-20,1234567890,123 Street City
+
+2,Jane,Smith,janesmith@yahoo.com,1990-11-30,0987654321,234 Lane Town
+
+3,David,Williams,davidW@outlook.com,1975-01-15,1122334455,345 Glade Ville
+
+4,Linda,Brown,lindab@gmail.com,1988-04-10,2233445566,456 Square County
+
+5,James,Singh,jamesS@hotmail.com,1978-05-25,3344556677,567 Crescent State
+
+6,Mary,Taylor,marytaylor@yahoo.com,1982-08-02,4455667788,678 Boulevard Country
+
+7,Robert,Lee,robertL@outlook.com,1986-10-14,5566778899,789 Way Province
+
+8,Patricia,Jones,patriciaJ@hotmail.com,1991-12-18,6677889900,890 Place Region
+
+9,Michael,Anderson,michaelA@gmail.com,1979-03-07,7788990011,901 Lane Territory
+
+10,Jennifer,Powell,jenniferP@yahoo.com,1980-06-21,8899001122,012 Road City

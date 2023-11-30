@@ -1,0 +1,16 @@
+CSV Header: 
+
+FirstName,LastName,Email,DOB,PhoneNumber,ID
+
+Data:
+
+John, Smith, johnsmith@gmail.com, 14-02-1990, 1234567890, 001
+Mary, Johnson, maryjohnson@yahoo.com, 22-11-1988, 1234567891, 002
+James, Brown, jamesbrown@outlook.com, 04-06-1992, 1234567892, 003
+Patricia, Garcia, patriciagarcia@aol.com, 17-12-1985, 1234567893, 004
+Robert, Martinez, robertmartinez@hotmail.com, 03-09-1987, 1234567894, 005
+Jennifer, Rodriguez, jenniferrodriguez@yahoo.com, 29-01-1991, 1234567895, 006
+Michael, Hernandez, michaelhernandez@gmail.com, 06-07-1989, 1234567896, 007
+Linda, Lopez, lindalopez@aol.com, 12-05-1993, 1234567897, 008
+William, Gonzalez, williamgonzalez@hotmail.com, 18-08-1990, 1234567898, 009
+Elizabeth, Perez, elizabethperez@yahoo.com, 20-04-1992, 1234567899, 010

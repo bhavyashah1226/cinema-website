@@ -1,0 +1,23 @@
+CSV FILE:
+
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+
+JK,John,Kennedy,Doe,12-05-1990,New York,1234567890,johndoe@gmail.com,10001,25,A,US,001
+
+AB,Anna,Beth,Smith,25-07-1988,Los Angeles,9876543210,annasmith@gmail.com,90001,45,B,US,002
+
+CD,Carlos,Daniel,Rodriguez,30-11-1985,San Francisco,1234567890,carlosrodriguez@gmail.com,94101,65,C,US,003
+
+EF,Eva,Franklin,Jones,18-03-1993,Chicago,9876543210,evajones@gmail.com,60601,85,D,US,004
+
+GH,George,Hamilton,Williams,06-08-1987,Houston,1234567890,georgewilliams@gmail.com,77001,105,E,US,005
+
+IJ,Ian,Joseph,Brown,22-10-1989,Phoenix,9876543210,ianbrown@gmail.com,85001,125,F,US,006
+
+KL,Karen,Lynn,Garcia,29-02-1992,Philadelphia,1234567890,karengarcia@gmail.com,19019,145,G,US,007
+
+MN,Michael,Nelson,Miller,15-04-1991,San Antonio,9876543210,michaelmiller@gmail.com,78201,165,H,US,008
+
+OP,Olivia,Pearl,Jackson,27-06-1990,Dallas,1234567890,oliviajackson@gmail.com,75201,185,I,US,009
+
+QR,Quincy,Ray,White,31-12-1993,Austin,9876543210,quincywhite@gmail.com,73301,205,J,US,010

@@ -1,0 +1,12 @@
+email
+ID,FirstName,LastName,Email,PhoneNumber,BirthDate
+1,John,Doe,johndoe@example.com,1234567890,1990-05-24
+2,Jane,Smith,janesmith@example.com,2345678901,1985-10-16
+3,Jim,Brown,jimbrown@example.com,3456789012,1980-08-12
+4,Emma,Jones,emmajones@example.com,4567890123,1995-02-28
+5,Oliver,Johnson,oliverjohnson@example.com,5678901234,1987-12-07
+6,Isabella,Williams,isabellawilliams@example.com,6789012345,1992-07-20
+7,Liam,Taylor,liamtaylor@example.com,7890123456,1986-03-15
+8,Mia,Brown,miabrown@example.com,8901234567,1993-11-03
+9,Noah,Davis,noahdavis@example.com,9012345678,1991-01-31
+10,Ava,Miller,avamiller@example.com,1234567891,1994-09-10

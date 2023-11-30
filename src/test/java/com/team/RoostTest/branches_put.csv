@@ -1,0 +1,11 @@
+cocNumber,cocBranchNumber,city,tradeName,phone,email
+123456,789,'Amsterdam','XYZ Trading',1234567890,'info@xyztrading.com'
+234567,890,'Rotterdam','ABC Manufacturing',2234567890,'contact@abcmanufacturing.com'
+345678,901,'The Hague','RST Design',3234567890,'hello@rstdesign.com'
+456789,012,'Utrecht','GHI Transport',4234567890,'support@ghitransport.com'
+567890,123,'Eindhoven','JKL Distribution',5234567890,'service@jkldistribution.com'
+678901,234,'Tilburg','MNO Logistics',6234567890,'inquiry@mnologistics.com'
+789012,345,'Groningen','PQR Import Export',7234567890,'info@pqrimportexport.com'
+890123,456,'Almere','STU Constructions',8234567890,'contact@stucosntructions.com'
+901234,567,'Breda','VWX Automotives',9234567890,'support@vwxautomotives.com'
+012345,678,'Nijmegen','YZA Carpentry',0234567890,'service@yzacarpentry.com'

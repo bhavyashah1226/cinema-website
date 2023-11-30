@@ -1,0 +1,11 @@
+coc-number,coc-branch-number,trade-name,size,offset
+CCN12345, BNC001, MegaCorp, 500, 1
+CCN12346, BNC002, SuperBusiness, 300, 2
+CCN12347, BNC003, UltraIndustry, 430, 3
+CCN12348, BNC004, NanoEnterprise, 220, 4
+CCN12349, BNC005, PicoCompany, 275, 5
+CCN12350, BNC006, TetraFirm, 390, 6
+CCN12351, BNC007, GigaTraders, 350, 7
+CCN12352, BNC008, MiniMarkets, 180, 8
+CCN12353, BNC009, MicroMerchants, 255, 9
+CCN12354, BNC010, KiloStores, 375, 10

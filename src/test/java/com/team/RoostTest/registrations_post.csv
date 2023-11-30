@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl
+1,ABC123,2022-01-01,2022-01-31,http://example.com/credential/1
+2,DEF456,2022-02-01,2022-02-28,http://example.com/credential/2
+3,GHI789,2022-03-01,2022-03-31,http://example.com/credential/3
+4,JKL012,2022-04-01,2022-04-30,http://example.com/credential/4
+5,MNO345,2022-05-01,2022-05-31,http://example.com/credential/5
+6,PQR678,2022-06-01,2022-06-30,http://example.com/credential/6
+7,STU901,2022-07-01,2022-07-31,http://example.com/credential/7
+8,VWX234,2022-08-01,2022-08-31,http://example.com/credential/8
+9,YZA567,2022-09-01,2022-09-30,http://example.com/credential/9
+10,BCD890,2022-10-01,2022-10-31,http://example.com/credential/10
