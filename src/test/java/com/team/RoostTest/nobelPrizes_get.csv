@@ -1,0 +1,33 @@
+import csv
+import random
+
+# Variables declaration
+offset = [i for i in range(0, 21)]
+limit = [i for i in range(1, 21)]
+sort = ["asc", "desc"]
+nobelPrizeYear = [i for i in range(2000, 2021)]
+yearTo = [i for i in range(2000, 2021)]
+nobelPrizeCategory = ["che", "eco", "lit", "pea", "phy", "med"]
+format = ["json", "csv"]
+csvLang = ["en", "se", "no"]
+statusCode = [i for i in range(200, 206)]
+
+# Writing to CSV file
+with open('profiles.csv', 'w', newline='') as csvfile:
+    # field names 
+    fieldnames = ['offset', 'limit', 'sort', 'nobelPrizeYear', 'yearTo', 'nobelPrizeCategory', 'format', 'csvLang', 'statusCode']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+
+    for i in range(10):
+        writer.writerow({
+            'offset': random.choice(offset),
+            'limit': random.choice(limit),
+            'sort': random.choice(sort),
+            'nobelPrizeYear': random.choice(nobelPrizeYear),
+            'yearTo': random.choice(yearTo),
+            'nobelPrizeCategory': random.choice(nobelPrizeCategory),
+            'format': random.choice(format),
+            'csvLang': random.choice(csvLang),
+            'statusCode': random.choice(statusCode)   
+        })
