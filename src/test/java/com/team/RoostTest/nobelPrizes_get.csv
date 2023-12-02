@@ -1,0 +1,27 @@
+import csv
+import random
+
+# define header
+header = ['offset', 'limit', 'sort', 'nobelPrizeYear', 'yearTo', 'nobelPrizeCategory', 'format', 'csvLang', 'statusCode']
+
+# define data
+data = []
+
+for i in range(10):
+    row = []
+    row.append(random.randint(0, 100))  # offset
+    row.append(random.randint(0, 100))  # limit
+    row.append(random.choice(["asc", "desc"]))  # sort
+    row.append(random.randint(1901, 2021))  # nobelPrizeYear
+    row.append(random.randint(1901, 2021))  # yearTo
+    row.append(random.choice(["che", "eco", "lit", "pea", "phy", "med"]))  # nobelPrizeCategory
+    row.append(random.choice(["json", "csv"]))  # format
+    row.append(random.choice(["en", "se", "no"]))  # csvLang
+    row.append(random.randint(200, 500))  # statusCode
+    data.append(row)
+
+# write data to file
+with open('dummy.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(header)
+    writer.writerows(data)
