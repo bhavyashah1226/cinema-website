@@ -1,0 +1,34 @@
+import csv
+import random
+import faker
+
+# Initialize Faker to generate dummy data
+myFactory = faker.Faker()
+
+offsets = [random.randint(1, 100) for _ in range(10)]
+limits = [random.randint(1, 100) for _ in range(10)]
+sorts = [random.choice(["asc", "desc"]) for _ in range(10)]
+nobelPrizeYears = [random.randint(1900, 2020) for _ in range(10)]
+yearsTo = [random.randint(year, 2021) for year in nobelPrizeYears]
+nobelPrizeCategories = [random.choice(["che", "eco", "lit", "pea", "phy", "med"]) for _ in range(10)]
+formats = [random.choice(["json", "csv"]) for _ in range(10)]
+csvLangs = [random.choice(["en", "se", "no"]) for _ in range(10)]
+statusCodes = [random.randint(200, 500) for _ in range(10)]
+
+# Write data to a csv file
+with open('dummyData.csv', 'w', newline='') as csvfile:
+    fieldnames = ['offset', 'limit', 'sort','nobelPrizeYear','yearTo','nobelPrizeCategory','format','csvLang', 'statusCode']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+    for i in range(10):
+        writer.writerow({
+            'offset': offsets[i], 
+            'limit': limits[i], 
+            'sort': sorts[i],
+            'nobelPrizeYear': nobelPrizeYears[i],
+            'yearTo': yearsTo[i],
+            'nobelPrizeCategory': nobelPrizeCategories[i],
+            'format': formats[i],
+            'csvLang': csvLangs[i],
+            'statusCode': statusCodes[i]
+        })
