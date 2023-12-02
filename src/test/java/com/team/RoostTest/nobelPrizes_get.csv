@@ -1,0 +1,40 @@
+import csv
+import random
+import faker
+
+# Initialize a faker instance
+fake = faker.Faker()
+
+# Define field options
+sort_options = ["asc", "desc"]
+format_options = ["json", "csv"]
+nobel_prize_category_options = ["che", "eco", "lit", "pea", "phy", "med"]
+csv_lang_options = ["en", "se", "no"]
+
+# Define range for years
+year_range = range(1900, 2022)
+
+# Define headers
+headers = ["offset", "limit", "sort", "nobelPrizeYear", "yearTo", "nobelPrizeCategory", "format", "csvLang", "statusCode"]
+
+# Prepare data
+data = []
+for _ in range(10):
+    row = [
+        random.randint(1, 100),  # offset
+        random.randint(1, 100),  # limit
+        random.choice(sort_options),  # sort
+        random.choice(year_range),  # nobelPrizeYear
+        random.choice(year_range),  # yearTo
+        random.choice(nobel_prize_category_options),  # nobelPrizeCategory
+        random.choice(format_options),  # format
+        random.choice(csv_lang_options),  # csvLang
+        random.randint(200, 500)  # statusCode
+    ]
+    data.append(row)
+
+# Write data to CSV file
+with open('output.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+    writer.writerow(headers)
+    writer.writerows(data)
