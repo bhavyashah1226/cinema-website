@@ -1,0 +1,24 @@
+import csv
+import random
+
+csvHeader = ["offset", "limit", "sort", "nobelPrizeYear", "yearTo", "nobelPrizeCategory", "format", "csvLang", "statusCode"]
+sortOptions = ["asc","desc"]
+nobelPrizeCategories = ["che","eco","lit","pea","phy","med"]
+formatOptions = ["json","csv"]
+csvLangOptions = ["en","se","no"]
+
+with open('dummy_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(csvHeader)
+    for i in range(10):
+        row = []
+        row.append(random.randint(1,100))
+        row.append(random.randint(1,100))
+        row.append(random.choice(sortOptions))
+        row.append(random.randint(1900,2022))
+        row.append(random.randint(1900,2022))
+        row.append(random.choice(nobelPrizeCategories))
+        row.append(random.choice(formatOptions))
+        row.append(random.choice(csvLangOptions))
+        row.append(random.randint(200,500))
+        writer.writerow(row)
