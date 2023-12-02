@@ -1,0 +1,19 @@
+import pandas as pd
+import random
+
+# Define the headers
+csv_headers = ["statusCode"]
+
+# Function to generate a random statusCode
+def random_statusCode():
+    return random.choice([200, 201, 202, 404, 500])
+
+# Generate 10 rows of data
+data = []
+for _ in range(10):
+    statusCode = random_statusCode()
+    data.append([statusCode])
+
+# Create the DataFrame and export to CSV
+df = pd.DataFrame(data, columns=csv_headers)
+df.to_csv("dummy_data.csv", index=False)

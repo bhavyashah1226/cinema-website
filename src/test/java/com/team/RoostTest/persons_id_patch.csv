@@ -1,0 +1,39 @@
+import faker
+import csv
+from faker import Faker
+from uuid import uuid4
+
+# Initialize faker generator
+fake = Faker()
+
+def generate_data():
+    data = {
+        'id': str(uuid4()),
+        'initials': fake.pystr(min_chars=2, max_chars=3),
+        'firstName': fake.first_name(),
+        'middleName': fake.last_name(),
+        'lastName': fake.last_name(),
+        'birthDate': fake.date_of_birth(minimum_age=20, maximum_age=60).isoformat(),
+        'birthPlace': fake.city(),
+        'phone': fake.phone_number(),
+        'email': fake.ascii_email(),
+        'postalCode': fake.zipcode(),
+        'houseNumber': fake.building_number(),
+        'houseNumberPostfix': fake.suffix(),
+        'countryCode': fake.country_code(),
+        'reference': fake.uuid4(),
+        'statusCode': fake.random_element(elements=('200','201','202','400','401','404'))
+    }
+    return data
+
+# Create 10 sample data records
+data = [generate_data() for _ in range(10)]
+
+# Write data to CSV file
+with open('sample_data.csv', 'w', newline='') as csvfile:
+    fieldnames = ['id', 'initials', 'firstName', 'middleName', 'lastName', 'birthDate', 
+                  'birthPlace', 'phone', 'email', 'postalCode', 'houseNumber', 
+                  'houseNumberPostfix', 'countryCode', 'reference', 'statusCode']
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+    writer.writeheader()
+    writer.writerows(data)

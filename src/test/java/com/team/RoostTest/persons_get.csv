@@ -1,0 +1,27 @@
+import random
+import csv
+import faker
+from datetime import datetime, timedelta
+import random
+
+fake = faker.Faker()
+
+csv_header = ["size", "offset", "name", "birth-date", "statusCode"]
+csv_values = []
+
+# create 10 rows of dummy data
+for _ in range(10):
+    size = random.randint(1, 50)
+    offset = random.randint(0, 50)
+    name = fake.name()
+    birth_date = (datetime.now() - timedelta(days=random.randint(18,78)*365)).strftime('%Y-%m-%d')
+    status_code = random.randint(100, 600)
+    
+    row = [size, offset, name, birth_date, status_code]
+    csv_values.append(row)
+
+# write the data into a csv file
+with open('dummy_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(csv_header)
+    writer.writerows(csv_values)

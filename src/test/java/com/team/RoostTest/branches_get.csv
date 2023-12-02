@@ -1,0 +1,24 @@
+import csv
+import faker
+import random
+
+Faker = faker.Faker()
+
+headers = ['coc-number', 'coc-branch-number', 'trade-name', 'size', 'offset', 'statusCode']
+rows = []
+
+for _ in range(10):
+    coc_number = Faker.random_number(digits=8, fix_len=True)
+    coc_branch_number = Faker.random_number(digits=12, fix_len=True)
+    trade_name = Faker.company()
+    size = random.randint(1, 50)
+    offset = random.randint(0, 100)
+    status_code = random.choice(['200', '400', '404', '500'])
+
+    row = [coc_number, coc_branch_number, trade_name, size, offset, status_code]
+    rows.append(row)
+
+with open('sample.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(headers)
+    writer.writerows(rows)

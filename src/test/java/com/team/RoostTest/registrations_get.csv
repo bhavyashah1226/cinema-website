@@ -1,0 +1,41 @@
+import csv
+import random
+import uuid
+from faker import Faker
+
+fake = Faker()
+
+# Function to generate random integer within a range
+def get_random_integer(minimum, maximum):
+    return random.randint(minimum, maximum)
+
+# Function to generate random UUID
+def get_random_uuid():
+    return uuid.uuid4()
+
+# Function to generate random URL
+def get_random_url():
+    return fake.url()
+
+# Data for CSV file
+data = [
+    {
+        "size": get_random_integer(1, 50),
+        "offset": get_random_integer(0, 50),
+        "recipient-id": get_random_uuid(),
+        "credential-url": get_random_url(),
+        "statusCode": get_random_integer(100, 500)
+    } 
+    for _ in range(10)
+]
+
+# Fieldnames for CSV file
+fieldnames = ["size", "offset", "recipient-id", "credential-url", "statusCode"]
+
+# Write data to CSV file
+with open('dummy_data.csv', 'w', newline='') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    for record in data:
+        writer.writerow(record)

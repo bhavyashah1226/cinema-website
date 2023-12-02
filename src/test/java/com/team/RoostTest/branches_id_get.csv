@@ -1,0 +1,19 @@
+import csv
+import random
+import uuid
+
+header = ['id', 'statusCode']
+rows = []
+
+for i in range(10):
+    row = {}
+    row['id'] = str(uuid.uuid4())
+    row['statusCode'] = random.randint(100, 599)
+    rows.append(row)
+
+filename = 'dummy_data.csv'
+
+with open(filename, 'w', newline='') as f:
+    writer = csv.DictWriter(f, fieldnames = header)
+    writer.writeheader()
+    writer.writerows(rows)

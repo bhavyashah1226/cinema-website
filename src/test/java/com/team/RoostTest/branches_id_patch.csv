@@ -1,0 +1,22 @@
+import csv
+from faker import Faker
+import uuid
+
+def create_csv_file(filename, num_records):
+    fake = Faker()
+
+    with open(filename, 'w', newline='') as csvfile:
+        fieldnames = ['id', 'tradeName', 'phone', 'email', 'statusCode']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        writer.writeheader()
+        for _ in range(num_records):
+            writer.writerow({
+                'id': str(uuid.uuid4()), 
+                'tradeName': fake.company(),
+                'phone': fake.phone_number(), 
+                'email': fake.email(),
+                'statusCode': fake.random_int(min=100, max=200)
+            })
+
+create_csv_file('dummy.csv', 10)

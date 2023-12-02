@@ -1,0 +1,27 @@
+import csv
+import random
+import faker
+
+# To generate fake data
+fake = faker.Faker()
+
+# Data fields
+fields = ["email", "otp", "client", "statusCode"]
+
+# Dummy data generation
+def generate_data():
+    email = fake.email()                  # generates a random email address
+    otp = "".join([str(random.randint(0,9)) for _ in range(6)])    # generates a random OTP of 6 digits
+    client = random.choice(["mobile", "web", "desktop", "api"])    # randomly selects a client type
+    statusCode = random.randint(100, 600) # generates a random status code
+    return [email, otp, client, statusCode]
+
+# Writing to the CSV file
+def write_csv(filename, num_records):
+    with open(filename, mode ='w') as f:
+        writer = csv.writer(f)
+        writer.writerow(fields)  # write the header
+        for _ in range(num_records):
+            writer.writerow(generate_data())
+            
+write_csv('dummy_data.csv', 10)

@@ -1,0 +1,29 @@
+import csv
+import random
+import string
+import base64
+
+# Function to generate random string
+def random_string(length):
+    return ''.join(random.choices(string.ascii_letters + string.digits, k=length))
+
+# Function to generate random base64 string
+def random_base64(length):
+    return base64.b64encode(random_string(length).encode()).decode()
+
+data = []
+
+# Generate 10 rows of dummy data
+for _ in range(10):
+    name = random_string(10)
+    image = "data:image/jpeg;base64," + random_base64(10)
+    settings = {"timezone": random.choice(["EST", "PST", "CST", "MST"]),
+                "language": random.choice(["English", "Spanish", "French", "German"]),
+                "currency": random.choice(["USD", "EUR", "GBP", "JPY"])}
+    data.append([name, image, settings])
+
+# Write data to CSV file
+with open('output.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["name", "image", "settings"])  # Write column headers
+    writer.writerows(data)  # Write the data

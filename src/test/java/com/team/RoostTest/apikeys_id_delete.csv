@@ -1,0 +1,17 @@
+import csv
+import uuid
+import random
+
+header = ['id', 'statusCode']
+data = []
+
+for _ in range(10):
+    id = str(uuid.uuid4())  # generate a universal unique identifier
+    statusCode = random.randint(100, 500)  # generate a random number between 100 and 500
+    data.append([id, statusCode])
+
+# write to csv file
+with open('dummy_data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerow(header)
+    writer.writerows(data)

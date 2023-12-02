@@ -1,0 +1,37 @@
+import csv
+import random
+import uuid
+from faker import Faker
+from datetime import timedelta
+
+# Instantiate the Faker
+fake = Faker()
+
+# Function to generate a random date
+def random_dates(start_date, end_date, n=10):
+    return [fake.date_between(start_date, end_date) for _ in range(n)]
+
+# Variables
+variables = ['reference', 'startDate', 'endDate', 'credentialUrl']
+
+# Create a csv file
+with open('sample.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(['id', 'reference', 'startDate', 'endDate', 'credentialUrl', 'statusCode'])
+
+    # Generate 10 rows of dummy data
+    for _ in range(10):
+        id = uuid.uuid4()  # Generate a random UUID
+        reference = fake.random_number(digits=5, fix_len=True)  # Random 5 digit number
+
+        # Generate a random start and end date
+        startDates = random_dates("-1y", "-10d", 10)  
+        endDates = [dt + timedelta(days=random.randint(1,10)) for dt in startDates] 
+        startDate = startDates[random.randint(0, len(startDates) - 1)]
+        endDate = endDates[random.randint(0, len(endDates) - 1)]
+
+        credentialUrl = fake.uri()  # Generate a random URL
+
+        statusCode = random.choice(['200', '404', '500'])  # Choose a random status code
+
+        writer.writerow([id, reference, startDate, endDate, credentialUrl, statusCode])

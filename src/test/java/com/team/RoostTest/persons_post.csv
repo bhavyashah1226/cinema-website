@@ -1,0 +1,51 @@
+import csv
+import random
+import string
+import faker
+from random import randint
+
+# Initialize faker generator
+fake_data = faker.Faker()
+
+# Function to generate random initials
+def get_initials():
+    return ''.join(random.choice(string.ascii_uppercase) for _ in range(2))
+
+# Function to generate birthday
+def get_birth_date():
+    return fake_data.date_of_birth(minimum_age=22, maximum_age=90)
+
+# Function to generate phone number
+def get_phone():
+    return fake_data.phone_number()
+
+# Function to generate email
+def get_email():
+    return fake_data.email()
+
+# Function to generate postal code
+def get_post_code():
+    return fake_data.zipcode()
+
+# Function to generate house number
+def get_house_number():
+    return randint(1, 300)
+
+# Function to generate house number postfix
+def get_house_number_postfix():
+    return random.choice(string.ascii_letters).upper()
+
+# Function to generate country code
+def get_country_code():
+    return fake_data.country_code()
+
+# Function to generate reference number
+def get_reference():
+    return ''.join(random.choices(string.ascii_uppercase + string.digits, k=10))
+
+# Open or create csv file
+with open('dummy_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["initials","firstName","middleName","lastName","birthDate","birthPlace","phone","email","postalCode","houseNumber","houseNumberPostfix","countryCode","reference"]) #write header
+    for _ in range(10): #generate 10 rows of dummy data
+        writer.writerow([get_initials(), fake_data.first_name(), fake_data.first_name(), fake_data.last_name(), get_birth_date(), fake_data.city(), get_phone(), get_email(), get_post_code(), get_house_number(), get_house_number_postfix(), get_country_code(), get_reference()])

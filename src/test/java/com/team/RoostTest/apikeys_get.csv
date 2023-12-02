@@ -1,0 +1,34 @@
+import csv
+import random
+import faker
+
+# Initialize faker generator
+fake = faker.Faker()
+
+def generate_data():
+    # Define data types for each field
+    data = {
+        'statusCode': random.randint(100, 600)
+    }
+    return data
+
+def generate_csv(filename):
+    # Open a new file for writing
+    with open(filename, 'w', newline='') as csvfile:
+        # Define field names
+        fieldnames = ['statusCode']
+        # Create a writer object
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+        # Write a row with the field names
+        writer.writeheader()
+
+        # Generate and write data rows
+        for _ in range(10):
+            writer.writerow(generate_data())
+
+# Provide CSV filename
+csv_filename = 'dummy_data.csv'
+
+# Generate CSV file
+generate_csv(csv_filename)

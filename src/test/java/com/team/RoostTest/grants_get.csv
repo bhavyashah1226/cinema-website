@@ -1,0 +1,13 @@
+import csv
+import random
+
+def generate_dummy_data(filename, num_records):
+    with open(filename, 'w', newline='') as csvfile:
+        fieldnames = ['statusCode']
+        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+        writer.writeheader()
+        for i in range(num_records):
+            writer.writerow({'statusCode': random.randint(100,600)})
+
+# generate 10 records of dummy data
+generate_dummy_data('dummy_data.csv', 10)

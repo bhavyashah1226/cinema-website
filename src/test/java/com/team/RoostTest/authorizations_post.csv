@@ -1,0 +1,24 @@
+import csv
+import faker
+import random
+
+# Initialize faker module
+fake = faker.Faker()
+
+# Variable names
+variables = ["email", "statusCode"]
+
+# Generate mock data
+data = []
+for _ in range(10):
+    email = fake.email()
+    statusCode = random.choice(range(200, 500))
+    data.append([email, statusCode])
+
+# Generate csv file
+with open('dummy_data.csv', 'w', newline='') as csvfile:
+    writer = csv.writer(csvfile, delimiter=',')
+    writer.writerow(variables)
+    writer.writerows(data)
+
+print("CSV file has been created with dummy data.")

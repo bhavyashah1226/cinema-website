@@ -1,0 +1,39 @@
+import csv
+import random
+import string
+import faker
+
+# Number of rows to generate
+num_rows = 10
+
+# Headers of the CSV file
+headers = ['commit-hash', 'email', 'statusCode']
+
+# Faker library to generate dummy email
+fake = faker.Faker()
+
+# Array to store rows
+rows = []
+
+# Generate rows
+for _ in range(num_rows):
+    # Random commit hash of length 7
+    commit_hash = ''.join(random.choices(string.ascii_letters + string.digits, k=7))
+
+    # Random email using faker library
+    email = fake.email()
+
+    # Random status code
+    status_code = random.randint(100, 500)
+  
+    # Append to rows
+    rows.append([commit_hash, email, status_code])
+
+# Name of CSV file  
+filename = "test_data.csv"
+
+# Writing to CSV file
+with open(filename, 'w') as csvfile:  
+    csvwriter = csv.writer(csvfile)
+    csvwriter.writerow(headers)
+    csvwriter.writerows(rows)  

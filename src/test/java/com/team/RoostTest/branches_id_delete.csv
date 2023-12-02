@@ -1,0 +1,24 @@
+import csv
+import uuid
+import random
+
+# Function to generate dummy data
+def generate_dummy_data():
+    return [str(uuid.uuid4()), random.randint(100, 500)]
+
+# Headers for CSV
+headers = ["id", "statusCode"]
+
+# Creating a CSV file
+with open('dummy_data.csv', 'w', newline='') as f:
+    writer = csv.writer(f)
+
+    # Writing headers to CSV
+    writer.writerow(headers)
+
+    # Writing multiple data rows in CSV
+    for _ in range(10):
+        writer.writerow(generate_dummy_data())
+
+# Finished generating CSV
+print("CSV generation is Done")

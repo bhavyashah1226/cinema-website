@@ -1,0 +1,25 @@
+import random
+import csv
+import faker 
+from faker import Faker
+fake = Faker()
+
+data = []
+header = ['ID', 'Name', 'Email', 'DateOfBirth', 'PhoneNumber', 'StatusCode']
+
+# Generating sample data
+for i in range(10):
+    id = i
+    name = fake.name()
+    email = fake.email()
+    dateOfBirth = fake.date_of_birth(minimum_age=18, maximum_age=90).isoformat()
+    phoneNumber = fake.random_int(min=1000000000, max=9999999999) # 10 digit phone number
+    statusCode = random.choice(['200', '404', '500', '301']) # Randomly choose a status code
+    
+    data.append([id, name, email, dateOfBirth, phoneNumber, statusCode])
+
+# Writing data to csv file
+with open('dummyData.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(header)
+    writer.writerows(data)

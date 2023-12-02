@@ -1,0 +1,15 @@
+import pandas as pd
+import random
+import faker
+
+faker_instance = faker.Faker()
+
+def generate_status_code():
+    return random.randint(100, 500)
+
+data = {
+    'statusCode': [generate_status_code() for _ in range(10)]
+}
+
+df = pd.DataFrame(data)
+df.to_csv('data.csv', index=False)

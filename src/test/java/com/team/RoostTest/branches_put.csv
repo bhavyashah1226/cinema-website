@@ -1,0 +1,24 @@
+import csv
+import random
+import string
+import faker
+
+# Generate random values
+def gen_random_values():
+    fake = faker.Faker()
+
+    cocNumber = ''.join(random.choices(string.ascii_uppercase + string.digits, k=10))
+    cocBranchNumber = ''.join(random.choices(string.ascii_uppercase + string.digits, k=5))
+    city = fake.city()
+    tradeName = fake.company()
+    phone = fake.phone_number()
+    email = fake.email()
+    
+    return [cocNumber, cocBranchNumber, city, tradeName, phone, email]
+
+# Write data to CSV
+with open('profile_data.csv', 'w', newline='') as file:
+    writer = csv.writer(file)
+    writer.writerow(["cocNumber", "cocBranchNumber", "city", "tradeName", "phone", "email"])
+    for _ in range(10):
+        writer.writerow(gen_random_values())
