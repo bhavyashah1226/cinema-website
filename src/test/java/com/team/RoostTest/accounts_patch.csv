@@ -1,0 +1,11 @@
+email,statusCode
+john_doe@gmail.com,200
+jane_doe@gmail.com,404
+michael_smith@gmail.com,500
+emma_brown@gmail.com,200
+david_jones@gmail.com,403
+olivia_johnson@gmail.com,200
+james_williams@gmail.com,302
+sophia_taylor@gmail.com,404
+noah_davis@gmail.com,200
+mia_miller@gmail.com,500

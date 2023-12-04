@@ -1,0 +1,11 @@
+initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference
+JM,John,Michael,Doe,2000-01-01,New York,123456789,j.doe@gmail.com,10001,10,A,USA,001
+RF,Robert,Fitzgerald,Kennedy,1940-05-25,Brooklyn,987654321,rfk@gmail.com,11201,20,B,USA,002
+MC,Marilyn,Christine,Monroe,1926-05-30,Los Angeles,1029384756,mm@gmail.com,90001,30,C,USA,003
+EP,Elvis,Aaron,Presley,1935-01-08,Mississippi,5647382910,e.presley@gmail.com,39530,40,D,USA,004
+BG,Bill,Henry,Gates,1955-10-28,Seattle,9081726354,b.gates@gmail.com,98101,50,E,USA,005
+WS,Warren,Edward,Buffett,1930-08-30,Omaha,6758493021,w.buffett@gmail.com,68101,60,F,USA,006
+SJ,Steve,Paul,Jobs,1955-02-24,San Francisco,2345678910,s.jobs@gmail.com,94101,70,G,USA,007
+EH,Ernest,Miller,Hemingway,1899-07-21,Illinois,3456789120,e.hemingway@gmail.com,60601,80,H,USA,008
+AF,Agatha,Mary,Christie,1890-09-15,UK,4567891230,a.christie@gmail.com,SW1A,90,I,GB,009
+AD,Albert,Einstein,Durham,1879-03-14,Germany,5678912340,a.durham@gmail.com,10115,100,J,DE,010

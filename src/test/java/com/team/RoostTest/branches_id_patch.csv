@@ -1,0 +1,11 @@
+id,tradeName,phone,email,statusCode
+a5b4c3d2e1f9,TradeCompany1,1234567890,trade1@email.com,200
+6e7f8g9h0i1j,TradeCompany2,2345678901,trade2@email.com,404
+7h8i9j0k1l2m,TradeCompany3,3456789012,trade3@email.com,200
+8i9j0k1l2m3n,TradeCompany4,4567890123,trade4@email.com,500
+9j0k1l2m3n4o,TradeCompany5,5678901234,trade5@email.com,200
+0k1l2m3n4o5p,TradeCompany6,6789012345,trade6@email.com,200
+1l2m3n4o5p6q,TradeCompany7,7890123456,trade7@email.com,404
+2m3n4o5p6q7r,TradeCompany8,8901234567,trade8@email.com,500
+3n4o5p6q7r8s,TradeCompany9,9012345678,trade9@email.com,200
+4o5p6q7r8s9t,TradeCompany10,0123456789,trade10@email.com,404

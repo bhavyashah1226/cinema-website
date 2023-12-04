@@ -1,0 +1,11 @@
+commit-hash,email,statusCode
+abc6d1b,john.doe@example.com,200
+f2c84ab,jane.lee@example.com,404
+4327gbd,rose.parker@example.com,500
+b3c62s9,sam.wilson@example.com,204
+67a89xb,diana.clark@example.com,302
+92d43h6,charlie.brown@example.com,100
+5f4hd28,harry.potter@example.com,402
+cd68a7p,peter.parker@example.com,401
+e3f2d1a,clark.kent@example.com,301
+12b75f4,tony.stark@example.com,201

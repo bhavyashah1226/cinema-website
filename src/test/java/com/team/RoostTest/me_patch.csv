@@ -1,0 +1,11 @@
+name,image,settings,statusCode
+John Doe,data:image/jpeg;base64,iVBORh0KGg...,{"language":"English","notifications":true},200
+Jane Smith,data:image/jpeg;base64,QWxhZGRpbjpvcGVuIHNlc2FtZQ==,{"language":"French","notifications":false},201
+Bob Johnson,data:image/jpeg;base64,VGhhdCdzIGEgdGVzdCBzdHJpbmc=,{"language":"Spanish","notifications":true},200
+Alice Brown,data:image/jpeg;base64,RW1wbG95ZWUgaW5mb3JtYXRpb24gaXMgc2FmZQ==,{"language":"German","notifications":false},201
+Charlie Davis,data:image/jpeg;base64,a2FzZGpoYWxramRsa2Fqc2ww,{"language":"Italian","notifications":true},200
+Erica Evans,data:image/jpeg;base64,VXNlciBpbmZvcm1hdGlvbiBoYXMgYmVlbiBlbmNyeXB0ZWQ=,{"language":"Russian","notifications":false},201
+Greg Foster,data:image/jpeg;base64,a2FzZGxoYXNka2poYWxramRsa2Fqc2wwYXNkZg==,{"language":"Chinese","notifications":true},200
+Hannah Green,data:image/jpeg;base64,U2NyeXB0ZWQgdXNlciBpbmZvcm1hdGlvbg==,{"language":"Arabic","notifications":false},201
+Ivan Harris,data:image/jpeg;base64,bXVsdGlwbGUgdmFsdWVzIGFyZSBlbmNyeXB0ZWQ=,{"language":"Japanese","notifications":true},200
+Julia Jackson,data:image/jpeg;base64,VXNlciByZXNvdXJjZXMgYXJlIHNhZmU=,{"language":"Korean","notifications":false},201

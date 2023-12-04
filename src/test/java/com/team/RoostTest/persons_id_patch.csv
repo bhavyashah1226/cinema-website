@@ -1,0 +1,11 @@
+id,initials,firstName,middleName,lastName,birthDate,birthPlace,phone,email,postalCode,houseNumber,houseNumberPostfix,countryCode,reference,statusCode
+403d2460-a800-4c18-a031-3b0c7f3917fa,JH,John,Henry,Milan,1985-07-25,Auckland,0210234567,j.h.milan@example.com,1010,12,A,NZ,REF123,200
+cfd5da50-0312-4bce-b779-2b7b017466c9,MR,Marie,Rose,Claire,1990-01-01,Sydney,0412345678,m.r.claire@example.com,2000,354,B,AU,REF456,200
+b25f5d5b-be23-4f08-b385-14a9305b93fb,RG,Roger,George,Smith,1975-12-12,London,07123456789,r.g.smith@example.com,EC1A,25,C,UK,REF789,200
+63137a6c-8a82-4a5b-962d-5d2978f8158e,LH,Lucy,Harriet,Jones,1980-05-10,Wellington,0211234567,l.h.jones@example.com,6011,15,D,NZ,REF012,200
+3dae6b5f-b05e-48a5-8e6a-a44bc517ad4f,GH,Graham,Hugh,Williams,1965-11-11,New York,2123456789,g.h.williams@example.com,10007,789,E,US,REF345,200
+de1baf83-c837-4fe4-aa7c-c61e8d3dee41,KJ,Kim,Jane,Taylor,1987-08-30,Brisbane,0731234567,k.j.taylor@example.com,4000,67,F,AU,REF678,200
+f8c91cae-dba8-44a4-a882-ba8566a4bc97,BH,Bradley,Harold,Brown,1970-07-07,Manchester,0712345678,b.h.brown@example.com,M2,100,G,UK,REF901,200
+765aa10e-3f82-406a-80ee-42d25d8ec641,PJ,Patricia,Jill,Thomas,1975-06-15,Durham,9191234567,p.j.thomas@example.com,27701,200,H,US,REF234,200
+d73db9b1-68af-4cd4-b3df-679a8ab53ca6,NJ,Nicole,June,Miller,1982-10-29,Auckland,0211234568,n.j.miller@example.com,1011,320,I,NZ,REF567,200
+90d2fd48-e302-4c32-b8d0-6d6f30464124,DE,Daniel,Elliot,Moore,1991-03-01,Sydney,0741234567,d.e.moore@example.com,2001,456,J,AU,REF890,200

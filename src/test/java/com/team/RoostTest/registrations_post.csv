@@ -1,0 +1,11 @@
+id,reference,startDate,endDate,credentialUrl,statusCode
+657d1c91-f531-4af4-9379-f7981db8e392,ABC123,2022-01-01,2022-12-31,http://example.com/credential/ABC123,200
+0530cc0f-a1f1-4539-8efe-cef39d6ddb3e,DEF456,2022-02-01,2022-11-30,http://example.com/credential/DEF456,200
+b1e8a841-5aea-4723-948b-1f6425796e72,GHI789,2022-03-01,2022-10-31,http://example.com/credential/GHI789,200
+db161087-8e5e-4822-9d83-14c1712d057a,JKL012,2022-04-01,2022-09-30,http://example.com/credential/JKL012,200
+324eeaa8-31bb-41b5-858c-32cb3a3b0b47,MNO345,2022-05-01,2022-08-31,http://example.com/credential/MNO345,200
+926993ee-6193-41bb-b79c-b9bb223f8a6a,PQR678,2022-06-01,2022-07-31,http://example.com/credential/PQR678,200
+440e22a6-9c33-4369-b679-6c4cd0897041,STU901,2022-07-01,2022-06-30,http://example.com/credential/STU901,200
+c598dce3-b3af-4cbc-8c03-0866c2f0d5d0,VWX234,2022-08-01,2022-05-31,http://example.com/credential/VWX234,200
+e2d9ae95-7d2f-46a9-9d3c-80884097b318,YZA567,2022-09-01,2022-04-30,http://example.com/credential/YZA567,200
+507fed2f-ff7d-4548-ab8c-63d2c7cc4109,BSC890,2022-10-01,2022-03-31,http://example.com/credential/BSC890,200
