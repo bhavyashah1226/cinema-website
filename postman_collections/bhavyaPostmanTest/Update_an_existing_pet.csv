@@ -1,0 +1,11 @@
+name,0,1,id,status,statusCode,scenario
+John,0,1,1,available,400,Client error responses: Bad Request
+Doe,0,1,2,pending,404,Client error responses: Not Found
+Smith,0,1,3,sold,405,Client error responses: Method Not Allowed
+Jane,0,1,4,available,400,Client error responses: Bad Request
+Doe,0,1,5,pending,404,Client error responses: Not Found
+Johnson,0,1,6,sold,405,Client error responses: Method Not Allowed
+Brown,0,1,7,available,400,Client error responses: Bad Request
+Davis,0,1,8,pending,404,Client error responses: Not Found
+Miller,0,1,9,sold,405,Client error responses: Method Not Allowed
+Wilson,0,1,10,available,400,Client error responses: Bad Request

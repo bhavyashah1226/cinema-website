@@ -1,0 +1,6 @@
+name,0,1,id,status,statusCode,scenario
+John,23,45,1,available,405,Client error responses: Method Not Allowed
+Jane,34,56,2,pending,405,Client error responses: Method Not Allowed
+Dave,45,67,3,sold,405,Client error responses: Method Not Allowed
+Lisa,56,78,4,available,405,Client error responses: Method Not Allowed
+Mark,67,89,5,pending,405,Client error responses: Method Not Allowed

@@ -1,0 +1,7 @@
+id,petId,quantity,shipDate,status,complete,statusCode,scenario
+1,1001,2,2022-01-01,available,true,200,Successful responses: OK
+2,1002,3,2022-01-02,pending,false,200,Successful responses: OK
+3,1003,4,2022-01-03,sold,true,200,Successful responses: OK
+4,1004,5,2022-01-04,available,false,400,Client error responses: Bad Request
+5,1005,6,2022-01-05,pending,true,400,Client error responses: Bad Request
+6,1006,7,2022-01-06,sold,false,400,Client error responses: Bad Request
