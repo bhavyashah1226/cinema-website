@@ -1,0 +1,4 @@
+name,0,1,id,status,statusCode,scenario
+John,0,1,123,available,400,Client error responses: Bad Request
+Doe,0,1,456,pending,404,Client error responses: Not Found
+Smith,0,1,789,sold,405,Client error responses: Method Not Allowed

@@ -1,0 +1,9 @@
+username,statusCode,scenario
+JohnDoe,400,Client error responses: Bad Request
+JaneDoe,400,Client error responses: Bad Request
+MikeSmith,400,Client error responses: Bad Request
+EmmaJones,400,Client error responses: Bad Request
+JohnDoe,404,Client error responses: Not Found
+JaneDoe,404,Client error responses: Not Found
+MikeSmith,404,Client error responses: Not Found
+EmmaJones,404,Client error responses: Not Found
