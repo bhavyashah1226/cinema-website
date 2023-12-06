@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,dog,Fido,http://example.com/fido1.jpg,pet,available
+2,cat,Fluffy,http://example.com/fluffy1.jpg,pet,sold
+3,bird,Chirpy,http://example.com/chirpy1.jpg,pet,available
+4,reptile,Scales,http://example.com/scales1.jpg,pet,pending
+5,fish,Finny,http://example.com/finny1.jpg,pet,available
+6,mammal,Whiskers,http://example.com/whiskers1.jpg,pet,pending
+7,amphibian,Hoppy,http://example.com/hoppy1.jpg,pet,available
+8,insect,Buzz,http://example.com/buzz1.jpg,pet,sold
+9,arachnid,Webs,http://example.com/webs1.jpg,pet,pending
+10,mollusk,Shelly,http://example.com/shelly1.jpg,pet,available

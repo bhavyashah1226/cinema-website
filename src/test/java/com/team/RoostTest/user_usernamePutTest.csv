@@ -1,0 +1,11 @@
+username,id,username,firstName,lastName,email,password,phone,userStatus
+user1,1,user1,John,Doe,user1@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567890,1
+user2,2,user2,Jane,Doe,user2@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567891,0
+user3,3,user3,Michael,Jones,user3@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567892,1
+user4,4,user4,Sarah,Miller,user4@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567893,0
+user5,5,user5,William,Johnson,user5@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567894,1
+user6,6,user6,Jennifer,Davis,user6@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567895,0
+user7,7,user7,Robert,Brown,user7@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567896,1
+user8,8,user8,Michelle,Smith,user8@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567897,0
+user9,9,user9,Charles,Walker,user9@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567898,1
+user10,10,user10,Margaret,Green,user10@example.com,$2y$10$u.L13e4s4u4b3hJqQ7z3/OFW5Q7m6ZqR691/3kQ8702r541x3g.,1234567899,0

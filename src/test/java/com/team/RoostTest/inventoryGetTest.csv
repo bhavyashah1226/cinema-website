@@ -1,0 +1,11 @@
+user_id,first_name,last_name,email,gender,birth_date,phone,address,city,state,zip_code,country,account_created,last_login,status,user_type
+1,John,Doe,john.doe@example.com,male,1980-01-01,0123456789,123 Main Street,Anytown,CA,91234,United States,2023-01-01,2023-02-01,active,customer
+2,Jane,Smith,jane.smith@example.com,female,1985-05-15,0123456789,456 Elm Street,Anytown,CA,91234,United States,2023-02-01,2023-03-01,active,customer
+3,Michael,Jones,michael.jones@example.com,male,1990-10-20,0123456789,789 Oak Street,Anytown,CA,91234,United States,2023-03-01,2023-04-01,active,customer
+4,Sarah,Miller,sarah.miller@example.com,female,1995-03-25,0123456789,123 Maple Street,Anytown,CA,91234,United States,2023-04-01,2023-05-01,active,customer
+5,William,Johnson,william.johnson@example.com,male,2000-08-30,0123456789,456 Pine Street,Anytown,CA,91234,United States,2023-05-01,2023-06-01,active,customer
+6,Elizabeth,Walker,elizabeth.walker@example.com,female,2005-02-05,0123456789,789 Willow Street,Anytown,CA,91234,United States,2023-06-01,2023-07-01,active,customer
+7,Matthew,Brown,matthew.brown@example.com,male,2010-07-10,0123456789,123 Cedar Street,Anytown,CA,91234,United States,2023-07-01,2023-08-01,active,customer
+8,Emily,Anderson,emily.anderson@example.com,female,2015-01-15,0123456789,456 Birch Street,Anytown,CA,91234,United States,2023-08-01,2023-09-01,active,customer
+9,Benjamin,Thomas,benjamin.thomas@example.com,male,2020-06-20,0123456789,789 Oak Street,Anytown,CA,91234,United States,2023-09-01,2023-10-01,active,customer
+10,Abigail,Wright,abigail.wright@example.com,female,2022-12-25,0123456789,123 Maple Street,Anytown,CA,91234,United States,2023-10-01,2023-11-01,active,customer

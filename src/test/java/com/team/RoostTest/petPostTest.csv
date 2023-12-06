@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status
+1,dog,Buddy,https://example.com/buddy1.jpg,cute,available
+2,cat,Kitty,https://example.com/kitty1.jpg,fluffy,available
+3,bird,Polly,https://example.com/polly1.jpg,singing,sold
+4,reptile,Snakey,https://example.com/snakey1.jpg,slithery,pending
+5,fish,Goldie,https://example.com/goldie1.jpg,swimming,available
+6,rabbit,Bunny,https://example.com/bunny1.jpg,hopping,pending
+7,hamster,Cheeks,https://example.com/cheeks1.jpg,squishy,sold
+8,guinea pig,Wheeker,https://example.com/wheeker1.jpg,chatty,available
+9,chinchilla,Dusty,https://example.com/dusty1.jpg,fluffy,sold
+10,ferret,Slinky,https://example.com/slinky1.jpg,slinky,available

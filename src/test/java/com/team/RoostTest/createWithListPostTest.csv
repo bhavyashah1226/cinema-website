@@ -1,0 +1,11 @@
+body,id,username,firstName,lastName,email,password,phone,userStatus
+body,1,jack,Jack,Smith,jack.smith@example.com,secret123,0123456789,1
+body,2,jill,Jill,Jones,jill.jones@example.com,password123,0123456789,0
+body,3,tom,Tom,Brown,tom.brown@example.com,securepass123,0123456789,2
+body,4,jane,Jane,Doe,jane.doe@example.com,123456789,0123456789,1
+body,5,peter,Peter,Parker,peter.parker@example.com,password1234,0123456789,0
+body,6,mary,Mary,Johnson,mary.johnson@example.com,securepass1234,0123456789,2
+body,7,michael,Michael,Williams,michael.williams@example.com,1234567890,0123456789,1
+body,8,sarah,Sarah,Davis,sarah.davis@example.com,password12345,0123456789,0
+body,9,john,John,Miller,john.miller@example.com,securepass12345,0123456789,2
+body,10,elizabeth,Elizabeth,Wilson,elizabeth.wilson@example.com,12345678901,0123456789,1

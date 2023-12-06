@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,jsmith,John,Smith,jsmith@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,1
+2,jdoe,Jane,Doe,jdoe@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,0
+3,aparker,Alice,Parker,aparker@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,1
+4,btaylor,Bob,Taylor,btaylor@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,0
+5,cmiller,Chris,Miller,cmiller@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,1
+6,hjohnson,Helen,Johnson,hjohnson@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,0
+7,mwilliams,Mark,Williams,mwilliams@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,1
+8,ajones,Alice,Jones,ajones@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,0
+9,kbrown,Karen,Brown,kbrown@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,1
+10,dgreen,David,Green,dgreen@example.com,$2a$10$Ebpz7r8P/nz.08ej40L./O6n54Bs16M.Q1Cj/L5s5AQsh1/e473Ka,0123456789,0

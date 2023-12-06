@@ -1,0 +1,11 @@
+user_id,first_name,last_name,email,age,gender,phone_number,date_joined,is_active,location,interests
+1,John,Doe,johndoe@example.com,35,Male,555-123-4567,2023-03-08 12:34:56,True,New York City,Sports,Music
+2,Jane,Smith,janesmith@example.com,28,Female,555-765-4321,2023-02-15 15:23:18,False,Los Angeles,Art,Fashion
+3,Michael,Jones,michaeljones@example.com,42,Male,555-987-6543,2023-01-22 18:12:40,True,Chicago,Technology,Travel
+4,Sarah,Miller,sarahmiller@example.com,30,Female,555-456-7890,2022-12-29 21:01:22,True,Houston,Cooking,Books
+5,William,Johnson,williamjohnson@example.com,38,Male,555-234-5678,2022-11-26 23:50:04,False,Phoenix,Movies,Photography
+6,Elizabeth,Walker,elizabethwalker@example.com,26,Female,555-890-1234,2022-10-23 02:38:46,True,Philadelphia,Fitness,Nature
+7,Matthew,Robinson,matthewrobinson@example.com,32,Male,555-678-9012,2022-09-20 05:27:28,False,Dallas,Science,History
+8,Emily,Taylor,emilytaylor@example.com,24,Female,555-345-6789,2022-08-17 08:16:10,True,San Francisco,Design,Politics
+9,Joshua,Wright,joshuawright@example.com,36,Male,555-123-4567,2022-07-14 11:04:52,True,Atlanta,Music,Travel
+10,Olivia,Garcia,oliviagarcia@example.com,28,Female,555-765-4321,2022-06-11 13:53:34,False,Washington,D.C.,Art,Fashion

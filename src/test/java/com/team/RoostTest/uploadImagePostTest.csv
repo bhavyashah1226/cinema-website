@@ -1,0 +1,11 @@
+petId,additionalMetadata,file
+1,{"name":"Buddy","age":5,"breed":"Golden Retriever"},/images/buddy.jpg
+2,{"name":"Max","age":3,"breed":"German Shepherd"},/images/max.jpg
+3,{"name":"Charlie","age":1,"breed":"French Bulldog"},/images/charlie.jpg
+4,{"name":"Lucy","age":2,"breed":"Beagle"},/images/lucy.jpg
+5,{"name":"Daisy","age":4,"breed":"Labrador Retriever"},/images/daisy.jpg
+6,{"name":"Cooper","age":6,"breed":"Poodle"},/images/cooper.jpg
+7,{"name":"Lola","age":7,"breed":"Yorkshire Terrier"},/images/lola.jpg
+8,{"name":"Bailey","age":8,"breed":"Chihuahua"},/images/bailey.jpg
+9,{"name":"Bella","age":9,"breed":"Mutt"},/images/bella.jpg
+10,{"name":"Duke","age":10,"breed":"Boxer"},/images/duke.jpg

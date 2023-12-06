@@ -1,0 +1,11 @@
+username,age,gender,email,phone,location,interests
+user1,25,male,user1@example.com,+1234567890,New York,sports,music
+user2,30,female,user2@example.com,+1234567891,London,art,travel
+user3,35,male,user3@example.com,+1234567892,Paris,technology,cooking
+user4,28,female,user4@example.com,+1234567893,Berlin,fashion,photography
+user5,23,male,user5@example.com,+1234567894,Tokyo,gaming,anime
+user6,32,female,user6@example.com,+1234567895,Sydney,science,nature
+user7,27,male,user7@example.com,+1234567896,Barcelona,history,architecture
+user8,34,female,user8@example.com,+1234567897,Rome,literature,movies
+user9,29,male,user9@example.com,+1234567898,Seoul,music,art
+user10,33,female,user10@example.com,+1234567899,Amsterdam,travel,photography
