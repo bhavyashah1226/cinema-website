@@ -1,0 +1,13 @@
+```csv
+id,category,name,photoUrls,tags,status
+1,dog,Sparky,https://example.com/img1,cute,available
+2,dog,Buddy,https://example.com/img2,friendly,pending
+3,cat,Whiskers,https://example.com/img3,fluffy,sold
+4,bird,Tweety,https://example.com/img4,chirpy,available
+5,fish,Nemo,https://example.com/img5,colorful,sold
+6,rabbit,Bugs,https://example.com/img6,funny,pending
+7,horse,Spirit,https://example.com/img7,wild,available
+8,cow,Daisy,https://example.com/img8,gentle,pending
+9,pig,Peppa,https://example.com/img9,pink,sold
+10,sheep,Shaun,https://example.com/img10,wooly,available
+```

@@ -1,0 +1,13 @@
+```csv
+user_id,first_name,last_name,dob,gender,email,phone_number,address,city,state,country,zip_code,income,occupation,company,industry,education,years_of_experience,skills,interests,social_media_handle,profile_picture
+1,John,Doe,1980-01-01,Male,username@example.com,0123456789,123 Main Street,Anytown,CA,USA,12345,100000,Software Engineer,Google,Technology,Computer Science,10,Python,Programming,twitter,image.jpg
+2,Jane,Smith,1985-07-15,Female,username@example.com,0123456789,456 Elm Street,Anytown,CA,USA,12345,80000,Data Scientist,Facebook,Technology,Statistics,5,R,Data Analysis,linkedin,image.jpg
+3,Michael,Jones,1990-03-08,Male,username@example.com,0123456789,789 Oak Street,Anytown,CA,USA,12345,60000,Product Manager,Amazon,E-commerce,Business Administration,3,Project Management,Product Development,facebook,image.jpg
+4,Sarah,Miller,1995-11-22,Female,username@example.com,0123456789,1011 Pine Street,Anytown,CA,USA,12345,40000,Marketing Associate,Microsoft,Technology,Marketing,1,Social Media Marketing,Content Creation,instagram,image.jpg
+5,William,Brown,1975-05-19,Male,username@example.com,0123456789,1213 Willow Street,Anytown,CA,USA,12345,120000,CEO,Apple,Technology,Business Administration,25,Leadership,Management,twitter,image.jpg
+6,Elizabeth,Taylor,1982-09-28,Female,username@example.com,0123456789,1415 Maple Street,Anytown,CA,USA,12345,70000,Accountant,Tesla,Automotive,Accounting,8,Financial Analysis,Taxation,linkedin,image.jpg
+7,David,Williams,1992-04-11,Male,username@example.com,0123456789,1617 Birch Street,Anytown,CA,USA,12345,50000,Sales Representative,Salesforce,Technology,Sales,2,Customer Relationship Management,Negotiation,facebook,image.jpg
+8,Jessica,Davis,1987-12-06,Female,username@example.com,0123456789,1819 Cedar Street,Anytown,CA,USA,12345,90000,Nurse,Kaiser Permanente,Healthcare,Nursing,12,Patient Care,Medical Terminology,instagram,image.jpg
+9,Thomas,Garcia,1978-06-23,Male,username@example.com,0123456789,2021 Oak Street,Anytown,CA,USA,12345,110000,Lawyer,Skadden Arps,Legal,Law,18,Litigation,Contracts,twitter,image.jpg
+10,Mary,Wilson,1997-01-17,Female,username@example.com,0123456789,2223 Pine Street,Anytown,CA,USA,12345,30000,Teacher,Teach for America,Education,Education,1,Lesson Planning,Classroom Management,linkedin,image.jpg
+```

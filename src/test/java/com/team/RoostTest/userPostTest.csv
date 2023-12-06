@@ -1,0 +1,13 @@
+```csv
+id,username,firstName,lastName,email,password,phone,userStatus
+1,jdoe,John,Doe,jdoe@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+2,jsmith,Jane,Smith,jsmith@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+3,pjackson,Paul,Jackson,pjackson@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+4,mmiller,Mary,Miller,mmiller@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+5,cgreen,Carol,Green,cgreen@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+6,jwilliams,John,Williams,jwilliams@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+7,bbrown,Betty,Brown,bbrown@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+8,dwalker,David,Walker,dwalker@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+9,lking,Linda,King,lking@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+10,jbrown,James,Brown,jbrown@example.com,$2a$10$I3Y5Q54Xh27d4o74lY152e,0123456789,1
+```

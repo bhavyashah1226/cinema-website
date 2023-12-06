@@ -1,0 +1,13 @@
+```csv
+user_id,gender,age,income,occupation,children,pets,zipcode,date_joined
+1,Male,35,120000,Software Engineer,2,0,94043,2022-07-15
+2,Female,28,80000,Marketing Manager,0,1,95054,2022-08-01
+3,Male,42,150000,Data Scientist,3,0,98101,2022-06-25
+4,Female,30,90000,Product Manager,1,1,92093,2022-05-19
+5,Male,25,60000,Accountant,0,0,90013,2022-09-12
+6,Female,38,110000,Lawyer,2,1,91350,2022-04-28
+7,Male,45,130000,Doctor,0,2,94117,2022-03-17
+8,Female,22,45000,Student,0,0,92101,2022-10-05
+9,Male,32,100000,Engineer,1,1,90210,2022-11-20
+10,Female,40,140000,CEO,0,2,95128,2022-12-09
+```

@@ -1,0 +1,13 @@
+```csv
+username,id,username,firstName,lastName,email,password,phone,userStatus
+user1,1,user1,John,Doe,user1@example.com,password123,0123456789,0
+user2,2,user2,Jane,Smith,user2@example.com,password123,0123456789,0
+user3,3,user3,Michael,Jones,user3@example.com,password123,0123456789,0
+user4,4,user4,Sarah,Miller,user4@example.com,password123,0123456789,0
+user5,5,user5,William,Johnson,user5@example.com,password123,0123456789,0
+user6,6,user6,Jennifer,Williams,user6@example.com,password123,0123456789,0
+user7,7,user7,David,Brown,user7@example.com,password123,0123456789,0
+user8,8,user8,Elizabeth,Garcia,user8@example.com,password123,0123456789,0
+user9,9,user9,Matthew,Anderson,user9@example.com,password123,0123456789,0
+user10,10,user10,Emily,Taylor,user10@example.com,password123,0123456789,0
+```
