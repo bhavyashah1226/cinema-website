@@ -1,0 +1,13 @@
+offset,limit,sort,nobelPrizeYear,yearTo,nobelPrizeCategory,format,csvLang
+0,20,asc,2017,2022,pea,json,se
+10,30,desc,2019,2022,phy,json,en
+10,50,asc,2014,2022,eco,csv,se
+20,10,asc,2018,2022,lit,json,no
+30,20,desc,2015,2022,med,csv,se
+40,10,asc,2016,2022,che,csv,en
+50,20,desc,2017,2022,lit,json,no
+60,30,desc,2018,2022,pea,json,en
+70,10,asc,2019,2022,che,json,se
+80,20,asc,2020,2022,phy,csv,en
+90,30,desc,2021,2022,med,json,no
+100,10,asc,2022,2022,eco,json,se
