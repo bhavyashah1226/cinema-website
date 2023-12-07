@@ -1,0 +1,11 @@
+offset,limit,sort,nobelPrizeYear,yearTo,nobelPrizeCategory,format,csvLang
+1,1000,"desc",2010,2021,"phy","json","en"
+1001,1000,"asc",2000,2019,"lit","csv","no"
+2001,1000,"asc",2010,2021,"pea","csv","se"
+3001,1000,"desc",2020,2021,"eco","json","no"
+4001,1000,"asc",2000,2020,"phy","csv","en"
+5001,1000,"desc",2010,2021,"che","csv","se"
+6001,1000,"asc",2010,2021,"pea","json","no"
+7001,1000,"desc",2000,2021,"med","csv","en"
+8001,1000,"asc",2000,2021,"pea","json","se"
+9001,1000,"asc",2000,2019,"lit","csv","no"
