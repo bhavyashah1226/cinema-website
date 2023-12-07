@@ -1,0 +1,13 @@
+ ```csv
+offset,limit,sort,nobelPrizeYear,yearTo,nobelPrizeCategory,format,csvLang
+1,10,desc,2020,2022,pea,json,en
+11,10,asc,2019,2021,phy,csv,se
+21,10,desc,2018,2020,pea,json,no
+31,10,asc,2017,2019,lit,csv,en
+41,10,desc,2016,2018,med,json,se
+51,10,asc,2015,2017,eco,csv,no
+61,10,desc,2014,2016,lit,json,en
+71,10,asc,2013,2015,che,csv,se
+81,10,desc,2012,2014,phy,json,no
+91,10,asc,2011,2013,med,csv,en
+```
