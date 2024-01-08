@@ -27,6 +27,7 @@
     </properties>
 
     <dependencies>
+      <!-- Example Comment at start of dependencies-->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-web</artifactId>
@@ -79,9 +80,7 @@
             <artifactId>hibernate-core</artifactId>
             <version>5.3.4.Final</version>
         </dependency>
-
-
-
+ <!-- Example Comment -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
@@ -117,9 +116,9 @@
   </dependencies>
   -->
 
-
+ <!-- Example Comment -->
     </dependencies>
-
+ <!-- Example Comment -->
     <build>
         <plugins>
             <plugin>
