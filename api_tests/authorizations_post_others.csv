@@ -1,0 +1,11 @@
+email
+john.doe@example.com
+jane_doe@example.co.uk
+invalid.email
+12345@example.com
+mike.o'brian@example.ie
+mary-jane@example.com
+no_at_symbol.com
+empty_string@
+double..dots@example.com
+extra_space @example.com
