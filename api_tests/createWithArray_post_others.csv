@@ -1,0 +1,11 @@
+id,username,firstName,lastName,email,password,phone,userStatus
+1,jd_91,John,Doe,johndoe91@gmail.com,pass123,1234567890,1
+2,janeD92,Jane,Doe,janedoe92@yahoo.com,jane92,0987654321,0
+3,mark_93,Mark,Smith,marksmith93@hotmail.com,mark93,1357924680,1
+4,emma_94,Emma,Jones,emmajones94@gmail.com,emma94,2468135790,0
+5,oliver_95,Oliver,Johnson,oliverjohnson95@yahoo.com,oliver95,8642097531,1
+6,isla_96,Isla,Williams,islawilliams96@hotmail.com,isla96,7531598624,0
+7,liam_97,Liam,Brown,liambrown97@gmail.com,liam97,9513572468,1
+8,noah_98,Noah,Taylor,noahtaylor98@yahoo.com,noah98,8529637410,0
+9,lucas_99,Lucas,Davies,lucasdavies99@hotmail.com,lucas99,7894561230,1
+10,ava_00,Ava,Evans,avaevans00@gmail.com,ava00,6541239870,0

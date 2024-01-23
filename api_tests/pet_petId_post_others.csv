@@ -1,0 +1,11 @@
+petId,name,status,statusCode
+1234,Max,Available,200
+5678,Bella,Unavailable,404
+9101,Lucy,Available,200
+1213,Charlie,Unavailable,404
+1415,Daisy,Available,200
+1617,Buddy,Unavailable,404
+1819,Molly,Available,200
+2021,Jack,Unavailable,404
+2223,Sadie,Available,200
+2425,Rocky,Unavailable,404

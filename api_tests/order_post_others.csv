@@ -1,0 +1,11 @@
+id,petId,quantity,shipDate,status,complete
+1,101,2,2022-01-10,delivered,true
+2,102,3,2022-01-11,pending,false
+3,103,1,2022-01-12,delivered,true
+4,104,5,2022-01-13,pending,false
+5,105,2,2022-01-14,delivered,true
+6,106,3,2022-01-15,pending,false
+7,107,1,2022-01-16,delivered,true
+8,108,5,2022-01-17,pending,false
+9,109,2,2022-01-18,delivered,true
+10,110,3,2022-01-19,pending,false

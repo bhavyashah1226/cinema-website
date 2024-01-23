@@ -1,0 +1,11 @@
+petId,additionalMetadata,file,statusCode
+1,Lorem ipsum dolor sit amet,/file/path/1.jpg,200
+2,Consectetur adipiscing elit,/file/path/2.jpg,200
+3,Sed do eiusmod tempor incididunt,/file/path/3.jpg,200
+4,Ut labore et dolore magna aliqua,/file/path/4.jpg,200
+5,Ut enim ad minim veniam,/file/path/5.jpg,200
+6,Quis nostrud exercitation ullamco,/file/path/6.jpg,200
+7,Laboris nisi ut aliquip,/file/path/7.jpg,200
+8,Ex ea commodo consequat,/file/path/8.jpg,200
+9,Duis aute irure dolor,/file/path/9.jpg,200
+10,In reprehenderit in voluptate,/file/path/10.jpg,200

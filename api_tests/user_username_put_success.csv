@@ -1,0 +1,11 @@
+username,id,firstName,lastName,email,password,phone,userStatus
+john_doe,1,John,Doe,john_doe@example.com,pa$$w0rd,1234567890,1
+jane_doe,2,Jane,Doe,jane_doe@example.com,pa$$w0rd,0987654321,0
+sam_smith,3,Sam,Smith,sam_smith@example.com,pa$$w0rd,4567890123,1
+lisa_jones,4,Lisa,Jones,lisa_jones@example.com,pa$$w0rd,3210987654,0
+mike_brown,5,Mike,Brown,mike_brown@example.com,pa$$w0rd,6543210987,1
+susan_wilson,6,Susan,Wilson,susan_wilson@example.com,pa$$w0rd,9876543210,0
+bob_martin,7,Bob,Martin,bob_martin@example.com,pa$$w0rd,1029384756,1
+linda_thomas,8,Linda,Thomas,linda_thomas@example.com,pa$$w0rd,5678901234,0
+steve_jackson,9,Steve,Jackson,steve_jackson@example.com,pa$$w0rd,2345678901,1
+mary_johnson,10,Mary,Johnson,mary_johnson@example.com,pa$$w0rd,9012345678,0

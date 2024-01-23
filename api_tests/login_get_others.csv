@@ -1,0 +1,11 @@
+username,password,statusCode
+JohnDoe123,Password123,200
+JaneDoe321,Passw0rd321,200
+AdminUser,AdminPass123,200
+InvalidUser,12345678,400
+TestUser1,TestPass1,200
+TestUser2,TestPass2,200
+NullUser,,400
+EmptyPassword,UserNoPass,400
+SpecialChars,Pass@123,200
+NumericUser,12345678,400

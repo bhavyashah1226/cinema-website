@@ -1,0 +1,11 @@
+id,category_id,category_name,name,photoUrls,tags_id,tags_name,status
+1,10,Cat,Tom,http://example.com/cat1.jpg,100,playful,available
+2,10,Cat,Jerry,http://example.com/cat2.jpg,101,aggressive,sold
+3,20,Dog,Max,http://example.com/dog1.jpg,200,friendly,available
+4,20,Dog,Bella,http://example.com/dog2.jpg,201,shy,available
+5,30,Bird,Tweety,http://example.com/bird1.jpg,300,quiet,sold
+6,30,Bird,Sky,http://example.com/bird2.jpg,301,loud,available
+7,40,Fish,Nemo,http://example.com/fish1.jpg,400,colorful,sold
+8,40,Fish,Dory,http://example.com/fish2.jpg,401,friendly,available
+9,50,Reptile,Lizzy,http://example.com/reptile1.jpg,500,scaly,sold
+10,50,Reptile,Slither,http://example.com/reptile2.jpg,501,slimy,available

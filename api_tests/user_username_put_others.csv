@@ -1,0 +1,11 @@
+username,id,firstName,lastName,email,password,phone,userStatus
+johnsmith,1,John,Smith,johnsmith@gmail.com,123456,1234567890,1
+janedoe,2,Jane,Doe,janedoe@gmail.com,abcdef,0987654321,0
+bob123,3,Bob,,bob123@gmail.com,,5555555555,1
+,4,Alice,Johnson,alicejohnson@gmail.com,alice123,,1
+mike92,5,Michael,Roberts,mike92@gmail.com,pass92,4444444444,0
+sarahj,6,Sarah,Johnson,sarahj@gmail.com,pass123,3333333333,1
+peterp,7,Peter,,peterp@gmail.com,pass456,2222222222,0
+marym,8,Mary,Miller,marym@gmail.com,marypass,1111111111,1
+tomt,9,Tom,Turner,tomt@gmail.com,pass789,6666666666,0
+lucyl,10,Lucy,Lee,lucyl@gmail.com,lucypass,7777777777,1

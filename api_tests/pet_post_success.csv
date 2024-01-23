@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,Animals,doggie,[https://doggie1.com, https://doggie2.com],[tag1, tag2],Available,200
+2,Animals,kitty,[https://kitty1.com, https://kitty2.com],[tag3, tag4],Pending,202
+3,Animals,birdie,[https://birdie1.com, https://birdie2.com],[tag5, tag6],Sold,404
+4,Animals,hamster,[https://hamster1.com, https://hamster2.com],[tag7, tag8],Available,200
+5,Animals,bunny,[https://bunny1.com, https://bunny2.com],[tag9, tag10],Pending,202
+6,Animals,fishie,[https://fishie1.com, https://fishie2.com],[tag11, tag12],Sold,404
+7,Animals,pony,[https://pony1.com, https://pony2.com],[tag13, tag14],Available,200
+8,Animals,lambie,[https://lambie1.com, https://lambie2.com],[tag15, tag16],Pending,202
+9,Animals,duckie,[https://duckie1.com, https://duckie2.com],[tag17, tag18],Sold,404
+10,Animals,puppy,[https://puppy1.com, https://puppy2.com],[tag19, tag20],Available,200

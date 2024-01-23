@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,pet,doggie,https://photo1.com,tag1,available,200
+2,pet,fluffy,https://photo2.com,tag2,pending,201
+3,pet,whiskers,https://photo3.com,tag3,sold,202
+4,pet,rover,https://photo4.com,tag4,available,203
+5,pet,princess,https://photo5.com,tag5,pending,204
+6,pet,sparky,https://photo6.com,tag6,sold,205
+7,pet,shadow,https://photo7.com,tag7,available,206
+8,pet,lucky,https://photo8.com,tag8,pending,207
+9,pet,buddy,https://photo9.com,tag9,sold,208
+10,pet,rocky,https://photo10.com,tag10,available,209
