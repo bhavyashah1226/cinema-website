@@ -1,0 +1,11 @@
+id,token,createdAt,updatedAt,account
+c492d6c9-3e9a-4ef2-b3cb-8a0c2f911adf,3ec61fbd-1a4c-4d5d-8b8e-77e1d9ad1f59:4f3f4fbd-1a4c-4d5d-8b8e-77e1d9ad1f59,2022-01-01T00:00:00Z,2022-02-01T00:00:00Z,john.doe@example.com
+1b4d5f64-1c74-4e81-9e7a-3b8a1fadd491,a6c61fbd-2b5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-2b5c-4d5d-8b8e-77e1d9ad1f59,2022-01-02T00:00:00Z,2022-02-02T00:00:00Z,jane.doe@example.com
+7f8d6e5a-2d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-3c5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-3c5c-4d5d-8b8e-77e1d9ad1f59,2022-01-03T00:00:00Z,2022-02-03T00:00:00Z,mary.jane@example.com
+1e4f5e64-1d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-4d5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-4d5c-4d5d-8b8e-77e1d9ad1f59,2022-01-04T00:00:00Z,2022-02-04T00:00:00Z,peter.parker@example.com
+5f6d7e5a-3d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-5e5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-5e5c-4d5d-8b8e-77e1d9ad1f59,2022-01-05T00:00:00Z,2022-02-05T00:00:00Z,tony.stark@example.com
+3g4h5i6j-4d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-6f5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-6f5c-4d5d-8b8e-77e1d9ad1f59,2022-01-06T00:00:00Z,2022-02-06T00:00:00Z,bruce.wayne@example.com
+5h6i7j8k-5d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-7g5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-7g5c-4d5d-8b8e-77e1d9ad1f59,2022-01-07T00:00:00Z,2022-02-07T00:00:00Z,clark.kent@example.com
+7i8j9k0l-6d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-8h5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-8h5c-4d5d-8b8e-77e1d9ad1f59,2022-01-08T00:00:00Z,2022-02-08T00:00:00Z,diana.prince@example.com
+9j0k1l2m-7d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-9i5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-9i5c-4d5d-8b8e-77e1d9ad1f59,2022-01-09T00:00:00Z,2022-02-09T00:00:00Z,steve.rogers@example.com
+0k1l2m3n-8d74-4e81-9e7a-3b8a1fadd491,a6c61fbd-0j5c-4d5d-8b8e-77e1d9ad1f59:a6c61fbd-0j5c-4d5d-8b8e-77e1d9ad1f59,2022-01-10T00:00:00Z,2022-02-10T00:00:00Z,logan.howlett@example.com

@@ -1,0 +1,11 @@
+name,image,settings
+John Doe,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"English","notifications":true}
+Jane Smith,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"Spanish","notifications":false}
+Robert Johnson,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"French","notifications":true}
+Michael Brown,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"German","notifications":false}
+Emily Davis,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"Italian","notifications":true}
+William Miller,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"Portuguese","notifications":false}
+Elizabeth Wilson,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"Russian","notifications":true}
+David Moore,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"Dutch","notifications":false}
+Jessica Taylor,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"Swedish","notifications":true}
+Thomas Anderson,data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/,{"language":"Norwegian","notifications":false}

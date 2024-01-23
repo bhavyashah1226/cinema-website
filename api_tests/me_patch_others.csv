@@ -1,0 +1,11 @@
+name,image,settings
+John Doe,data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...,{"theme":"dark","notifications":"on"}
+Jane Smith,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...,{"theme":"light","notifications":"off"}
+Alice Brown,,{"theme":"dark","notifications":"on"}
+Bob White,data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7,"theme":"light","notifications":"on"}
+Charlie Green,data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...,
+David Black,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...,{"theme":"dark","notifications":"off"}
+Eve Gray,data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7,"theme":"light","notifications":"on"}
+Frank Yellow,,{"theme":"dark","notifications":"on"}
+Grace Blue,data:image/jpeg;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...,{"theme":"light","notifications":"off"}
+Helen Purple,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIA...,{"theme":"dark","notifications":"on"}

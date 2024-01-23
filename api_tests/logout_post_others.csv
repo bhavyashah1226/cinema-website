@@ -1,0 +1,11 @@
+statusCode,field1,field2
+200,John,Smith
+404,Mary,Johnson
+500,James,Brown
+200,Patricia,Garcia
+404,Robert,Miller
+500,Linda,Williams
+200,Michael,Davis
+404,Elizabeth,Martinez
+500,William,Rodriguez
+200,Barbara,Wilson
