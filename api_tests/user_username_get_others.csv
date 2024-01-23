@@ -1,0 +1,11 @@
+username,statusCode
+John123,200
+JaneDoe,404
+Robert_56,500
+Alice@home,201
+invalid_user!,400
+MaryJane_007,200
+Tom&Jerry,502
+Hannah_Montana,200
+Charlie_Brown,404
+Iron_Man,500

@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,Animals,doggie,[https://images.doggie1.com],[tag1,tag2],available,200
+2,Plants,rose,[https://images.rose2.com],[tag3,tag4],sold,404
+3,People,John Doe,[],[tag1,tag5],available,200
+4,Cars,Model X,[https://images.modelx4.com],[tag6,tag7],pending,202
+5,Electronics,iPhone,[https://images.iphone5.com],[tag8,tag9],sold,404
+6,Animals,cat,[https://images.cat6.com],[tag10,tag11],available,200
+7,Books,Harry Potter,[https://images.hp7.com],[tag12,tag13],sold,404
+8,People,Jane Doe,[],[tag14,tag15],pending,202
+9,Animals,rabbit,[https://images.rabbit9.com],[tag16,tag17],available,200
+10,Books,Lord of the Rings,[https://images.lotr10.com],[tag18,tag19],sold,404

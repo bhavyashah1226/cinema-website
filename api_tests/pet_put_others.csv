@@ -1,0 +1,11 @@
+id,category,name,photoUrls,tags,status,statusCode
+1,cat,Felix,http://example.com/cat1.jpg,friendly,available,200
+2,dog,Rex,http://example.com/dog1.jpg,aggressive,adopted,200
+3,bird,Tweety,http://example.com/bird1.jpg,,available,200
+4,fish,Nemo,http://example.com/fish1.jpg,quiet,available,200
+5,cat,Garfield,http://example.com/cat2.jpg,lazy,adopted,200
+6,dog,Snoopy,http://example.com/dog2.jpg,funny,unavailable,404
+7,bird,Polly,http://example.com/bird2.jpg,noisy,available,200
+8,fish,Dory,http://example.com/fish2.jpg,forgetful,unavailable,404
+9,cat,Tom,http://example.com/cat3.jpg,,adopted,200
+10,dog,Pluto,http://example.com/dog3.jpg,loyal,available,200

@@ -1,0 +1,11 @@
+statusCode,id,category.id,category.name,name,photoUrls,tags.id,tags.name,status
+200,1,101,Mammal,doggie,http://example.com/dog1.jpg,201,tag1,available
+200,2,102,Bird,parrot,http://example.com/parrot2.jpg,202,tag2,sold
+200,3,103,Reptile,snake,http://example.com/snake3.jpg,203,tag3,pending
+200,4,104,Fish,goldfish,http://example.com/goldfish4.jpg,204,tag4,available
+200,5,105,Amphibian,frog,http://example.com/frog5.jpg,205,tag5,sold
+200,6,106,Insect,beetle,http://example.com/beetle6.jpg,206,tag6,pending
+200,7,107,Mammal,cat,http://example.com/cat7.jpg,207,tag7,available
+200,8,108,Bird,canary,http://example.com/canary8.jpg,208,tag8,sold
+200,9,109,Reptile,turtle,http://example.com/turtle9.jpg,209,tag9,pending
+200,10,110,Fish,shark,http://example.com/shark10.jpg,210,tag10,available
